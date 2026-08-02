@@ -1,6 +1,7 @@
 # ==============================================================================
-# ALEXANDER - AUTOMOTIVE ENGINEERING - GERMAN B2B COMPLIANCE
-# TAG_01: PYTHON AUTOMOTIVE AUTOMATION | MOTOR: chassis_standardization_slicing.py
+# ALEXANDER AUTOMOTIVE ENTERPRISE SUITE - SYSTEM ARCHITECTURE PIPELINE
+# CORE REPOSITORY: Alexander-Automotive-Data-Engineering-Enterprise-Suite
+# MASTER ENGINE: Tag_01_Python_Automotive_Customs_Ingestion_Engine
 # ==============================================================================
 
 def chassis_standardization_slicing():
