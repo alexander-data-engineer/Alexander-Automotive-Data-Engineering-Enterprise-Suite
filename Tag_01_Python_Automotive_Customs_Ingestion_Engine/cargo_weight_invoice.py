@@ -1,7 +1,7 @@
 # ==============================================================================
-# ALEXANDER AUTOMOTIVE ENTERPRISE SUITE - SYSTEM ARCHITECTURE PIPELINE
-# CORE REPOSITORY: Alexander-Automotive-Data-Engineering-Enterprise-Suite
-# MASTER ENGINE: Tag_01_Python_Automotive_Customs_Ingestion_Engine
+# ALEXANDER - AUTOMOTIVE ENGINEERING - GERMAN B2B COMPLIANCE
+# REPOSITORY: Alexander-Automotive-Data-Engineering-Enterprise-Suite
+# TAG_01: CUSTOMS INGESTION ENGINE | MOTOR: cargo_weight_invoice.py
 # ==============================================================================
 
 def cargo_weight_invoice():
